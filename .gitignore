@@ -1,0 +1,22 @@
+﻿# Keil 编译产物
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.crf
+*.d
+*.axf
+*.map
+*.lst
+*.htm
+*.dep
+*.sct
+*.lnp
+
+# 用户配置文件
+*.uvguix.*
+*.uvoptx
+
+# 临时文件
+*.bak
+*.tmp
